@@ -1503,7 +1503,7 @@ function newtasksysUrl(functionId, taskId, stk) {
       'Host': 'm.jingxi.com',
       'Accept': '*/*',
       'Connection': 'keep-alive',
-      'User-Agent': "jdpingou;iPhone;9.5.2;14.3;6898c30638c55142969304c8e2167997fa59eb53;network/wifi;model/iPhone12,1;appBuild/100365;ADID/696F8BD2-0820-405C-AFC0-3C6D028040E5;supportApplePay/1;hasUPPay/0;pushNoticeIsOpen/1;hasOCPay/0;supportBestPay/0;session/14;pap/JA2015_311210;brand/apple;supportJDSHWK/1;",
+      'User-Agent': "jdpingou;iPhone;9.5.2;14.3;6898c30638c55142969304c8e2167997fa59eb53;network/wifi;ADID/F108E1B6-8E30-477C-BE54-87CF23435488;supportApplePay/0;hasUPPay/0;hasOCPay/0;model/iPhone9,2;addressid/4585826605;supportBestPay/0;appBuild/167650;jdSupportDarkMode/0;Mozilla/5.0 (iPhone; CPU iPhone OS 14_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148;supportJDSHWK/1',
       'Accept-Language': 'zh-cn',
       'Referer': 'https://wqsd.jd.com/pingou/dream_factory/index.html',
       'Accept-Encoding': 'gzip, deflate, br',
